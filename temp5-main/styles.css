@@ -229,6 +229,8 @@
         margin-top: 2rem;
         max-width: 1440px;
         margin: 2rem auto;
+
+        margin-top: 80px;
     }
 
     .product-image img {
@@ -288,6 +290,7 @@
     .thank-you {
         text-align: center;
         padding: 3rem;
+        margin-top: 80px
     }
 
     .thank-you-content {
@@ -524,6 +527,7 @@
     /* Contact Page Styles */
     .contact-page {
         padding: 4rem 2rem;
+        margin-top: 6.5rem;
     }
 
     .contact-header {
@@ -1006,6 +1010,7 @@
     /* Policy Pages Styles */
     .policy-page {
         padding: 4rem 2rem;
+        margin-top: 80px;
     }
 
     .policy-content {
@@ -1298,6 +1303,7 @@
         .contact-container {
             grid-template-columns: 1fr;
             gap: 2rem;
+            
         }
 
         .contact-form {
